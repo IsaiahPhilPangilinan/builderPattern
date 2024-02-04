@@ -18,3 +18,6 @@ However, you encounter challenges:
   * Data consistency: Changes to user profiles after registration can cause unexpected issues due to mutable fields.
 
 Implement solution using the Builder Pattern to address the issue.
+
+# UML Diagram
+![Builder Pattern Diagram](https://github.com/IsaiahPhilPangilinan/builderPattern/assets/126074199/0d05b6db-c420-4535-a9ac-05b6343daa83)
